@@ -10,4 +10,4 @@ WebSocket應用練習，聊天室實作
 4. 利用goroutine發送訊息
 
 ## Demo
-![image](https://s17.aconvert.com/convert/p3r68-cdx67/3yhv0-r8p5a.gif)
+![image](https://reurl.cc/V3ezLZ)
