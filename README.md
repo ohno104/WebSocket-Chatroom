@@ -4,9 +4,9 @@ WebSocket應用練習，聊天室實作
 
 ## Descript
 
-練習使用不同的WebSocket package (gorilla / nhooyr.io)來實作聊天室功能
+1. WebSocket package應用(gorilla/nhooyr.io)
+2. 利用channel管理使用者進入與離線狀態
+3. 使用Singleton的Broadcaster實例統一處理channel
+4. 利用goroutine發送訊息
 
-## Related
-* WebSocket (gorilla / nhooyr)
-* goroutine
-* Singleton pattern
+![image](https://s17.aconvert.com/convert/p3r68-cdx67/3yhv0-r8p5a.gif)
